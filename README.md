@@ -62,4 +62,4 @@ This project is open source and free to use for educational and research purpose
 
 ## ✍️ Author
 
-- Developed by [Your Name]
+- Developed by Dhyan Patel
