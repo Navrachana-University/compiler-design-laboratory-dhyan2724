@@ -1,0 +1,6 @@
+Processing Urdu code:
+x = 8
+Comparing x (8) == 5: false
+Condition is false, executing ELSE block.
+Print statement
+Printing: پانچ نہیں ہے
